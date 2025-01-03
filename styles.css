@@ -1,0 +1,86 @@
+
+
+
+body{
+    background-color: rgba(131, 146, 228, 0.582);
+    border-radius: 15px ;
+    margin: 0%;
+   display: flex;
+    flex-wrap: wrap;
+}
+
+.icon{
+    background-color: rgb(68, 133, 185);
+    margin: 0%;
+    border-radius:15px;
+}
+
+#lists li{
+    padding: 20px;
+    list-style: none;
+   
+}    
+
+#lists a{
+    text-decoration: none;
+    font-weight: bolder;
+    font-style: oblique;
+}
+ #lists a:hover{
+    background-color: rgb(211, 172, 172);
+
+ }
+.intro h4,h3,h1{
+    text-align: center;
+    font-weight: 300;
+    
+}
+img{
+  
+     float: right;
+    border-radius: 50%; 
+
+   }
+.about {
+    font-size: medium;
+    border:20px;
+
+}
+.links{
+padding:20px;
+    
+}
+.contact{
+    border-radius:none;
+    text-align: center;
+    background-color: rgba(62, 62, 151, 0.932);
+    border-radius: 15px;
+}
+#name{
+    border-radius: 10px;
+    width: 350px;
+    height: 30px;
+    
+}
+#email{border-radius: 10px;
+width: 350px;
+height: 30px;
+
+}
+#message{border-radius:0px;
+width: 350px;
+height: 100px;
+font-size: larger;
+font-weight: 300px;
+
+}
+
+
+
+.linking{
+    text-align: center;
+   
+}
+
+
+
